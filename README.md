@@ -1,6 +1,6 @@
 # Login-prototype
 Prototipo de login de redes de hotéis em python
-com banco de dado em txt por hotel.
+com banco de dados em txt por hotel.
 
 Necessário:
 ```
